@@ -1,5 +1,6 @@
 #create a config file if you remember how
 config.js
+config.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

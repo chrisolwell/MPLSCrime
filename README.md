@@ -15,3 +15,9 @@ Api wouldn't work. It's arcgis, so I installed that. Not sure why or if it's an 
 ![Standish_category](https://user-images.githubusercontent.com/4724180/203871780-3ea1e673-7b4f-47bd-b8b6-7b9549b4eb45.png)
 
 These are kind of minimum viable product-type graphs for a project like this. I might just skip to tableau with this dataset....
+
+Finally got the exploding pie aka bar of pie graph to work, although it's hard to read. I kinda don't care enough to make it beautiful right now.
+
+![standish_crime](https://user-images.githubusercontent.com/4724180/204411403-df1a0cc7-2ce5-45a2-9190-ba7193dff77d.png)
+
+....I did dump this data into tableau and even though I didn't get any graphs out of it immediately (more rust to shake off with tableau too) i would say that's a probably a little more user friendly.

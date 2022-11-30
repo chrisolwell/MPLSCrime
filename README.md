@@ -12,12 +12,23 @@ Api wouldn't work. It's arcgis, so I installed that. Not sure why or if it's an 
 
 ![most_popular_crimes](https://user-images.githubusercontent.com/4724180/203871725-de468326-b13d-4334-a696-b717ddad37ab.png)
 
+This time in Cyberpunk:
+
+![most_popular_crimes_cyberpunk](https://user-images.githubusercontent.com/4724180/204928827-00bae510-a41b-4081-bcfa-b287d07908eb.png)
+
 ![Standish_category](https://user-images.githubusercontent.com/4724180/203871780-3ea1e673-7b4f-47bd-b8b6-7b9549b4eb45.png)
+
+And cyberpunk: 
+
+![Standish_category_cyberpunk](https://user-images.githubusercontent.com/4724180/204928942-2322d314-84d8-414d-bc83-73fe1d0706db.png)
 
 These are kind of minimum viable product-type graphs for a project like this. I might just skip to tableau with this dataset....
 
 Finally got the exploding pie aka bar of pie graph to work, although it's hard to read. I kinda don't care enough to make it beautiful right now.
 
 ![standish_crime](https://user-images.githubusercontent.com/4724180/204411403-df1a0cc7-2ce5-45a2-9190-ba7193dff77d.png)
+
+In Cyberpunk style:
+![standish_crime_cyberpunk](https://user-images.githubusercontent.com/4724180/204928751-2a4fa232-c8e2-48e8-b421-179717afa61d.png)
 
 ....I did dump this data into tableau and even though I didn't get any graphs out of it immediately (more rust to shake off with tableau too) i would say that's a probably a little more user friendly.

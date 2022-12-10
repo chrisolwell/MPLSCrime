@@ -32,3 +32,9 @@ In Cyberpunk style:
 ![standish_crime_cyberpunk](https://user-images.githubusercontent.com/4724180/204928751-2a4fa232-c8e2-48e8-b421-179717afa61d.png)
 
 ....I did dump this data into tableau and even though I didn't get any graphs out of it immediately (more rust to shake off with tableau too) i would say that's a probably a little more user friendly.
+
+So I had to do a bunch of stuff to create a line graph showing crimes by month in Standish. I did that in Cyberpunk. Here's that graph:
+
+![cpm_cyberpunk](https://user-images.githubusercontent.com/4724180/206877086-a547d59f-61f4-443c-907a-b6eecd007cc7.png)
+
+I dumped the standish data into a new csv and ran that in a new notebook called standish_time.ipynb. I had to convert the date columns to dt, and sort them to inlcude crimes only crimes that occurred on or after Jan. 1, 2019, so that's the scope I guess is the word I'm thinking of. I aslo dropped a bunch of columns to eliminate the nerdiest stuff. For some reason the savefig thing I tried to write into the code didn't work? I got this file using the download icon in vs code.

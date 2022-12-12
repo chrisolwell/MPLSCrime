@@ -38,3 +38,8 @@ So I had to do a bunch of stuff to create a line graph showing crimes by month i
 ![cpm_cyberpunk](https://user-images.githubusercontent.com/4724180/206877086-a547d59f-61f4-443c-907a-b6eecd007cc7.png)
 
 I dumped the standish data into a new csv and ran that in a new notebook called standish_time.ipynb. I had to convert the date columns to dt, and sort them to inlcude crimes only crimes that occurred on or after Jan. 1, 2019, so that's the scope I guess is the word I'm thinking of. I aslo dropped a bunch of columns to eliminate the nerdiest stuff. For some reason the savefig thing I tried to write into the code didn't work? I got this file using the download icon in vs code.
+
+*** 12/12/2022
+Here is an updated chart with legend and three lines in cyberpunk:
+
+![three_lines_WMD_cyberpunk](https://user-images.githubusercontent.com/4724180/207115811-adc4403c-2758-4ea2-97d6-6ce9cd9e44da.png)

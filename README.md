@@ -43,3 +43,9 @@ I dumped the standish data into a new csv and ran that in a new notebook called 
 Here is an updated chart with legend and three lines in cyberpunk:
 
 ![three_lines_WMD_cyberpunk](https://user-images.githubusercontent.com/4724180/207115811-adc4403c-2758-4ea2-97d6-6ce9cd9e44da.png)
+
+Also created this badboy: 
+
+![types_over_time](https://user-images.githubusercontent.com/4724180/207121460-32e377d3-9fc8-4e0d-be27-f78482d323bc.png)
+
+
